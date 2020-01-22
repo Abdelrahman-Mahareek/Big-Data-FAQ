@@ -1,1 +1,1 @@
-# Big-Data-FAQ
+# Big Data FAQ
